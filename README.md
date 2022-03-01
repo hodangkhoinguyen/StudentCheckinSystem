@@ -1,9 +1,9 @@
 # Student Check-in System
-**Description**
+## Description
 
 This program is used in a tutoring center to help student check in with filling out name and course. Then, the tutor would know who's waiting and provide academic support.
 
-**Funtionality**
+## Funtionality
 
 - Add student
 
